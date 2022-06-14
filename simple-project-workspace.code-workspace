@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "src\\first_function"
+		},
+		{
+			"path": "src\\second_function"
+		},
+		{
+			"path": "src\\shared_code"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	},
+	"launch": {
+		"configurations": [],
+		"compounds": [
+			{
+				"name": "Launch Functions",
+				"configurations": [
+					"Attach to Python Functions 1",
+					"Attach to Python Functions 2"
+				]
+			}
+		]
+	}
+}
